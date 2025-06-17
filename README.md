@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there 👋
+
+I'm Mihai, a Software Engineer with a focus on **PHP**, **MySQL**, and **NodeJS**.
+
+I enjoy building useful applications and exploring new technologies. In my free time, I'm often diving into the world of **video games**.
+
+Feel free to explore my repositories!
 
 <!--
 **zmihai/zmihai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
